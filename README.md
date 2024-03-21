@@ -1,5 +1,5 @@
 # recipe-app 
-This is my first public app which I still work on. This is mainly my playground. Therefore, this app is still worked on.
+This is my first public app which I still work on. This is mainly my playground. This app should store some recipes which can be used by the whole family.
 
 ## backend
 The backend is build with python. It consists of three layer:
