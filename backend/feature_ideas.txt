@@ -1,0 +1,2 @@
+Ideas:
+    - Implement hashing if feature 'user registration' takes place
